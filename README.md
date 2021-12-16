@@ -1,4 +1,4 @@
-### Fire_Forest_Detection
+### Fire Forest Detection
 Deep Learning Extra project
 
 ![ca_gloassfire_100220getty](https://user-images.githubusercontent.com/90132938/146420069-f357f671-c995-4840-a6f4-da3a6a0f2369.jpeg)
